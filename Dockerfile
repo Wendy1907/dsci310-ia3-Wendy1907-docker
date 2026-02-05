@@ -29,3 +29,4 @@ RUN R -e "install.packages('renv', repos='https://cloud.r-project.org')" && \
 # Copy rest of project
 COPY --chown=rstudio:rstudio . .
 
+# Add comment for trigger# trigger rebuild
