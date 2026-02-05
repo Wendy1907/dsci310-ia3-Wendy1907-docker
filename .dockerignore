@@ -1,0 +1,13 @@
+.git
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/library
+renv/staging
+renv/cache
+*.rds
+*.RData
+data/
+*.log
